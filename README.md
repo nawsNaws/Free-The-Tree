@@ -17,3 +17,5 @@
 ### Player one uses the WASD keys to move and the F key to shoot
 ### Player two uses the arrow keys to move and the / key to shoot
 ### You can revive your teammate with the spacebar as long as you are touching
+# Open code using https://academy.cs.cmu.edu/ide 
+### Attatched sound files must be uploaded to the cs academy sandbox for audio to work
